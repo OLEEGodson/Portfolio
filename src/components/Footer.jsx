@@ -1,5 +1,5 @@
 import { developer } from "../data/Portfolio";
-import logo from "../assets/logo.jpg";
+import logo from "../assets/logo.png";
 
 function Footer() {
   const year = new Date().getFullYear();
